@@ -1,0 +1,24 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+
+# Output
+/target
+/classes
+/bin
+out/
+
+# Libs and docs
+/lib
+/docs
+*.jar
+*.class
+
+# Settings
+/.settings
+.idea/
+*.ipr
+*.iws
+*.iml
+.classpath
+.project
