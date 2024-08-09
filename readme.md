@@ -27,4 +27,4 @@ $ git clone https://github.com/biancagomesalves/gerenciador-de-atendimentos
 ```
 
 Desenvolvido ❤️ por Bianca Gomes Alves
-- 🔗 [LinkedIn](https://www.linkedin.com/in/bianca-gomes-alves)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bianca--gomes/)
